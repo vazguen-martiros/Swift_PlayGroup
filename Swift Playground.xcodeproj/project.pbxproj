@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1B80E2A229A56059006952E6 /* IsEvenOrOdd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B80E2A129A56059006952E6 /* IsEvenOrOdd.swift */; };
 		1B87845729A2C7B5007CC21E /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B87845629A2C7B5007CC21E /* main.swift */; };
-		1B87845F29A2C876007CC21E /* guess number is even or odd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B87845E29A2C876007CC21E /* guess number is even or odd.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,9 +24,9 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		1B80E2A129A56059006952E6 /* IsEvenOrOdd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IsEvenOrOdd.swift; sourceTree = "<group>"; };
 		1B87845329A2C7B5007CC21E /* Swift Playground */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Swift Playground"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1B87845629A2C7B5007CC21E /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
-		1B87845E29A2C876007CC21E /* guess number is even or odd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "guess number is even or odd.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,7 +68,7 @@
 		1B87845D29A2C825007CC21E /* Challenges */ = {
 			isa = PBXGroup;
 			children = (
-				1B87845E29A2C876007CC21E /* guess number is even or odd.swift */,
+				1B80E2A129A56059006952E6 /* IsEvenOrOdd.swift */,
 			);
 			path = Challenges;
 			sourceTree = "<group>";
@@ -131,7 +131,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1B87845F29A2C876007CC21E /* guess number is even or odd.swift in Sources */,
+				1B80E2A229A56059006952E6 /* IsEvenOrOdd.swift in Sources */,
 				1B87845729A2C7B5007CC21E /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
