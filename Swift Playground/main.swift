@@ -7,20 +7,6 @@
 
 import Foundation
 
-func isEvenOrOdd(number: Int) -> String {
-    if number % 2 == 0 {
-        return "Even"
-    } else {
-        return "Odd"
-    }
-}
+var showIsEven:IsEvenOrOdd = IsEvenOrOdd()
 
-print("Enter a number:")
-if let input = readLine(),
-   let number = Int(input) {
-    let result = isEvenOrOdd(number: number)
-    print("\(number) is \(result).")
-} else {
-    print("Invalid input.")
-}
-
+showIsEven.showResult()
