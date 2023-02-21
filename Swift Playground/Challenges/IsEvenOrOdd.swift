@@ -2,7 +2,7 @@
 //  IsEvenOrOdd.swift
 //  Swift Playground
 //
-//  Created by VAZGEN MARTIROSYAN on 21/2/23.
+//  Created by VAZGuEN MARTIROSon 21/2/23.
 //
 
 import Foundation
